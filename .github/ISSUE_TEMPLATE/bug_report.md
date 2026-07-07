@@ -1,13 +1,12 @@
 ---
-name: Bug Report
-about: Create a report to help us improve the mod.
-title: '[BUG] '
+name: "🇬🇧 English Bug Form"
+about: Report a bug in English using a structured template.
+title: "[BUG] "
 labels: bug
-assignees: ''
 ---
 
 **1. Minecraft Version**
-*Example: 1.21.1, 1.21...*
+*Example: 1.20.1, 1.21...*
 
 **2. Mod Loader & Version**
 *Example: Fabric 0.15.11 / NeoForge 21.0.2...*
@@ -21,7 +20,4 @@ assignees: ''
 3. See error
 
 **5. Crash Report or Logs**
-*Please paste your logs to pastebin.com or mclogs.com and share the link here, OR drop the file below.*
-
-**6. Additional Context**
-*Add any other context or screenshots about the problem here.*
+*Please paste your logs to pastebin.com or mclogs.com and share the link here.*
