@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "💬 Discord Bug Support (EN / RU)"
+    url: https://discord.gg
+    about: "💬 EN: Report bugs or ask questions in Discord. / 🇷🇺 RU: Сообщить о проблеме или задать вопрос в Discord."
