@@ -13,7 +13,7 @@ You can report a bug in two convenient ways:
 
 2. **Our Discord Server:**
    * If you have a quick question or prefer not to use GitHub, visit the dedicated bug-reporting channel on our server:
-   * 🔗 [Join Discord](https://discord.gg/Umn96wqaP)
+   * 🔗 [Join Discord](https://discord.gg/EuV4qfdsre)
 
 ---
 
